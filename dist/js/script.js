@@ -5,11 +5,11 @@ window.onscroll = function()    {
 
     if(window.pageYOffset > fixedNav)  {
         header.classList.add('navbar-fixed');
+
     }else{
         header.classList.remove('navbar-fixed');
     }
 }
-
 
 
 // hamburger
