@@ -18,7 +18,7 @@ body    {
 
 .hamburger-active > span:nth-child(1)  {
     @apply rotate-45; 
-    @apply transition ease-in-out
+    @apply transition ease-in-out;
 }
 
 .hamburger-active > span:nth-child(2)  {
